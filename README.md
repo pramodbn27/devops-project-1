@@ -1,1 +1,1 @@
-# devops-project-1
+# Devops Project 1
